@@ -1,0 +1,13 @@
+name = "Community Crafters"
+author = "Me"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ca1b8b8973d3fe43be1f01ca031d6650e2cce47a98745d762343e2fc19422823"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
