@@ -1,0 +1,13 @@
+name = "Alex's Mobs Compat"
+filename = "Alex's Mobs Compat 1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7llxlRZs/versions/2RvQiroI/Alex%27s%20Mobs%20Compat%201.0.zip"
+hash-format = "sha512"
+hash = "bdeb735d1305ce4644f895427fec727846cf1fa556b0edf127b2ae0315264ca7df0b6b84bcdc843a4e01995ebf8521e9002042bdb63a993870eb5cbcf13967f0"
+
+[update]
+[update.modrinth]
+mod-id = "7llxlRZs"
+version = "2RvQiroI"

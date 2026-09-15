@@ -1,0 +1,13 @@
+name = "Traveler Tool Belt"
+filename = "travelertoolbelt-neoforge-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oQxD3huq/versions/BygpNIfj/travelertoolbelt-neoforge-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "6d80b97eb297abf8dd33194e1a95ce1dcfe1ce4ae1b88beed3930d3358b650901f4a20febf2e7389a9024378ac683ec4b33f7c6f33f94e7fe718adefc5c35a5b"
+
+[update]
+[update.modrinth]
+mod-id = "oQxD3huq"
+version = "BygpNIfj"
