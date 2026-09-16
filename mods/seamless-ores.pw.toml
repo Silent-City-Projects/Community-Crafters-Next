@@ -1,0 +1,13 @@
+name = "Seamless Ores"
+filename = "seamlessores-neoforge-1.21.1-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oWpIIBJu/versions/3oVdAEbA/seamlessores-neoforge-1.21.1-4.0.0.jar"
+hash-format = "sha512"
+hash = "7e5873fdd12359b3ce0abb6eabb45609402f0d513338da6b91f275da65729b1de04c1e3b604602ae312cc741b63e43503339460436d17d6bb85e7e1787a7bdec"
+
+[update]
+[update.modrinth]
+mod-id = "oWpIIBJu"
+version = "3oVdAEbA"
