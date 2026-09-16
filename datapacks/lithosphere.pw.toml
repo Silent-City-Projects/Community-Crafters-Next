@@ -1,0 +1,13 @@
+name = "Lithosphere"
+filename = "lithosphere 1.8.2 28.08.2026.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/kHZRg7IU/lithosphere%201.8.2%2028.08.2026.zip"
+hash-format = "sha512"
+hash = "c665573e30a3621018e7a763ecac0ab2691067f4238590e899fd793b9485014be23ce646cab9154557d80005459dd6a995deff89d9435eae355553ee0d55ee4d"
+
+[update]
+[update.modrinth]
+mod-id = "iv9jp2k9"
+version = "kHZRg7IU"

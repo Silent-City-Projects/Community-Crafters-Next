@@ -66,6 +66,11 @@ hash = "899109ffd9cb0149445923438a32eb9ff0cfbdae65b8f1b07cb6b004fc8de356"
 metafile = true
 
 [[files]]
+file = "datapacks/lithosphere.pw.toml"
+hash = "0b3584181848c99c9c968b313146712d9ac51d6f77273daf99c27b832ce33f74"
+metafile = true
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -178,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "838dbcb90c93bab58691e82c95045bd97c3e096e3a2680a00cf063e56ce35ce3"
-metafile = true
-
-[[files]]
-file = "mods/carryon-aeronautics-compat.pw.toml"
-hash = "5dd4552f1e29c6db54ea43a7c56e298de7f8e467bd5a61a211f9c3362b5528b2"
 metafile = true
 
 [[files]]
@@ -561,11 +561,6 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "4a2b992577d6f41f981f3d2e12b13a1a0d5a8d252fed3c325f8b9443dc8ba33e"
-metafile = true
-
-[[files]]
 file = "mods/lmd.pw.toml"
 hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
 metafile = true
@@ -598,6 +593,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "a378eacf15808312cf62335ac81a243adf5f29d287b3eaa500e02ab04460e44d"
+metafile = true
+
+[[files]]
+file = "mods/more-density-functions.pw.toml"
+hash = "b6e8ae2daa9f2c75ce4e0b59caba87fba179f9a18cd456c65c3ccc31c1a688cd"
 metafile = true
 
 [[files]]
@@ -748,6 +748,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
+file = "mods/seed-viewer.pw.toml"
+hash = "8f7c0a65abfb175f484908d9104c408c86b6a8c384f6b6c50e9868696a3a2422"
 metafile = true
 
 [[files]]
