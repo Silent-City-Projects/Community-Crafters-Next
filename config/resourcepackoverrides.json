@@ -1,0 +1,35 @@
+{
+  "schema_version": "2",
+  "pack_overrides": {
+
+    "1": [
+      "programmer_art",
+      "quark_programmer_art",
+      "supplementaries:darker_ropes",
+      "vanillabackport:freshly_animated",
+      "vanillabackport:freshly_animated_legacy",
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+      "mod/controlify:resourcepacks/legacy_console"
+    ],
+
+    "$$1": {
+      "hidden": true
+    },
+
+    "file/Default-Dark-Mode-1.20.2+-2025.5.0.zip": {
+      "title": "\"Default Dark Mode\"",
+      "description": "\"Dark Mode UI\""
+    },
+
+    "file/Simply Swords Reforged v1.zip": {
+      "title": "\"Simply Swords Reforged\"",
+      "force_compatible": true,
+      "required": true
+    },
+
+    "file/Midnighttigger's Default Connected Textures.zip": {
+      "title": "\"Midnighttigger's DCT\"",
+      "required": true
+    }
+  }
+}
