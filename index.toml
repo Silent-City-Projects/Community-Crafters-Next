@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/drippyloadingscreen/early_window_reference.properties"
-hash = "77c6d3048472922a553db1d6791d31bb1f33b45fbf7aa6fdb4c544f9299f94ab"
-
-[[files]]
 file = "config/drippyloadingscreen/options.txt"
 hash = "58bba80e488fbb924ed07be883571c827f5e07145e4b841111c790bd490e7032"
 
@@ -59,6 +55,26 @@ hash = "50f3e87e41e8b8b2754a866ff981fb35f7c97f326e91380ed30e51c02a6d07cd"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/modpack_defaults/config/alexsmobs-common.toml"
+hash = "4b630b4a5316d659849d541028afcb8d41f20e9a419f8db7e546a8a2745381b4"
+
+[[files]]
+file = "config/modpack_defaults/config/chunksmith/config.json"
+hash = "60312438c638f4bd05b80a3e51af4dc309d241652e9bb118df503791fd672605"
+
+[[files]]
+file = "config/modpack_defaults/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "e79d42268119a134b441e27eaad7f81b0b3ce97bf6dfef93e1b592f357bb89b2"
+
+[[files]]
+file = "config/modpack_defaults/config/quark-common.toml"
+hash = "3739120c04f20357468e0d041a0a75dfd73d8ae0816693f601cde7b323b500f5"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "9417b280e00e195ca22bf4453ccbd806d285cfbf90c097012970f1dc146e7910"
 
 [[files]]
 file = "datapacks/alexs-mobs-compatc.pw.toml"
@@ -221,6 +237,11 @@ hash = "9bb81c87fca7a6429a10e18ad8665fb9accd758f53737f1a5543787be8308e51"
 metafile = true
 
 [[files]]
+file = "mods/configmanager.pw.toml"
+hash = "66e066d2fdecd2750afca6b9cf5296e0fb0c61573ddbbd41c1dc2ce53e8b71a7"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "2b61d5100f1db31c7928ba7de237c5f863926c49a4bf53fcce27bf0371ec0575"
 metafile = true
@@ -338,6 +359,16 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "cfbd7a92f45f86525943cb057927def356fe9f579e4ddb48bb24c897233136ca"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "9f511e824978b45d8d90244e921dafcbb9bc01d1e4aced66afac71740ffa5ff6"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
 metafile = true
 
 [[files]]
@@ -718,6 +749,11 @@ metafile = true
 [[files]]
 file = "mods/relics-rpg.pw.toml"
 hash = "bee98f0db61db79ee173e45c940a58d1fc09f754797bdb2aee4e10e4884ebd04"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
 
 [[files]]
