@@ -65,6 +65,62 @@ file = "config/modpack_defaults/config/chunksmith/config.json"
 hash = "60312438c638f4bd05b80a3e51af4dc309d241652e9bb118df503791fd672605"
 
 [[files]]
+file = "config/modpack_defaults/config/drippyloadingscreen/options.txt"
+hash = "58bba80e488fbb924ed07be883571c827f5e07145e4b841111c790bd490e7032"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/002f5e.png"
+hash = "0ce66c1bcf5e86f359a8725b4e7c4e94ccda8d5f83cd41f91f055d988e0d680d"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/community_crafters.png"
+hash = "ff0942d8cddb6ae88120a132d479de151ab0333f1f78c8591e13e2354c9db66c"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/runningparallaxgen.gif"
+hash = "35c31a36c2e4eeea827ead8277743e3517efe9bcd66998888052ec52601e2269"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/splashes.txt"
+hash = "e93d3e9ca4dbc28b2f12ea01599166d1f2f610518daee1026bc589d423f5e361"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/assets/tuff-ai-kitten-ai.gif"
+hash = "f1648bf239ba15be08c17bf4b83c5cd3e51cd4c3e5ce0b096ee2782eabf22121"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customizablemenus.txt"
+hash = "987a7327bbe9a31a8b4b12addb633c34a5ef39a98b9b3d9d669b1cc7891eaabf"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "9e14ce4f3025ebeaf69df35ebd90f822eddf313be6d514b8bebf1ca5b6217753"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/customization/title_screen_layout.txt"
+hash = "c6e1a949456dc7b3b5e8cdfca87f0d2c8a2bf5143835968c9afe01507c2ae842"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/options.txt"
+hash = "50f3e87e41e8b8b2754a866ff981fb35f7c97f326e91380ed30e51c02a6d07cd"
+
+[[files]]
+file = "config/modpack_defaults/config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/modpack_defaults/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "e79d42268119a134b441e27eaad7f81b0b3ce97bf6dfef93e1b592f357bb89b2"
 
@@ -73,7 +129,7 @@ file = "config/modpack_defaults/config/quark-common.toml"
 hash = "3739120c04f20357468e0d041a0a75dfd73d8ae0816693f601cde7b323b500f5"
 
 [[files]]
-file = "config/resourcepackoverrides.json"
+file = "config/modpack_defaults/config/resourcepackoverrides.json"
 hash = "9417b280e00e195ca22bf4453ccbd806d285cfbf90c097012970f1dc146e7910"
 
 [[files]]
