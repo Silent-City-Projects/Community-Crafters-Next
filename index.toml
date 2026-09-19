@@ -122,7 +122,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/modpack_defaults/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "e79d42268119a134b441e27eaad7f81b0b3ce97bf6dfef93e1b592f357bb89b2"
+hash = "bcc187e61122688236d46056047865e0524738debdfd94a87f5013556e57891c"
 
 [[files]]
 file = "config/modpack_defaults/config/quark-common.toml"
