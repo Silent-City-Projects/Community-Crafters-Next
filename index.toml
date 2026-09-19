@@ -82,8 +82,8 @@ hash = "899109ffd9cb0149445923438a32eb9ff0cfbdae65b8f1b07cb6b004fc8de356"
 metafile = true
 
 [[files]]
-file = "datapacks/lithosphere.pw.toml"
-hash = "0b3584181848c99c9c968b313146712d9ac51d6f77273daf99c27b832ce33f74"
+file = "datapacks/william-wythers-overhauled-overworld-(datapack).pw.toml"
+hash = "bd03fa430bb8b864e5d39a254f8c3d5dc0d64f65c4a1d90e49316c42edb853b9"
 metafile = true
 
 [[files]]
@@ -104,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/almostunified.pw.toml"
 hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
@@ -547,6 +552,11 @@ hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
+file = "mods/ixeris.pw.toml"
+hash = "211e85081c9c7cbbb400359b15b6a374e4ef8c768b3c54621e3cf4301c2afc46"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
 metafile = true
@@ -579,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
+file = "mods/larion-worldgen.pw.toml"
+hash = "40a40e76f375a3115baf0845312e650d0b87d246d5ebb04e2c9f8afabe7d4d24"
 metafile = true
 
 [[files]]
@@ -768,7 +783,7 @@ metafile = true
 
 [[files]]
 file = "mods/roxy.pw.toml"
-hash = "2a5711f24b6b571bfbc77bf566bf8996220d777da482f4d94159d776933c3052"
+hash = "676a12102065adfd445794d57024048b4380d99a2562db900209ffb2f0ddc4c5"
 metafile = true
 
 [[files]]
@@ -874,6 +889,11 @@ metafile = true
 [[files]]
 file = "mods/stone-zone.pw.toml"
 hash = "ff9375815700853241baecc0985a5348aa44f9c5ba685afb595e22d754bf5bf5"
+metafile = true
+
+[[files]]
+file = "mods/streams-reflowing.pw.toml"
+hash = "55883199396efd8487abc36cb7d03e08a5d874ecaf6f61b1c0373a3d1266fc08"
 metafile = true
 
 [[files]]
